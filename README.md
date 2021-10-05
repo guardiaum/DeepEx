@@ -3,7 +3,7 @@
 Please note that this is research code. It is not optimized, slow, not very 
 clean, and not well documented. 
 
-Before proceeding download experiments data available [HERE](https://cin.ufpe.br/~jms5/deepex-data.zip) and place it into the folder */datasets*. 
+Before proceeding download experiments data available [HERE](https://drive.google.com/file/d/1SCKCgni_iOOJE5ijk7YftvVxtRfaoGBK/view?usp=sharing) and place it into the folder */datasets*. 
 
 #### 1 - Automatic Data Labeling
 > python generate_train_data.py *datasets-class* *datasets/generate-datasets*
